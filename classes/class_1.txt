@@ -3,15 +3,14 @@ Class: Restaurant Menus
 Attributes:
 color(string)
 typeOfMaterial (string)
-menuLength (integer)
-menuWidth (integer)
-numberOfFoodOptions (integer)
+menuLengthInches (integer)
+menuWidthInches (integer)
 chiefsSpecialsAdded (boolean)
 
 
 Method:
 changeColor (changes the color of menuColor attributes)
+changeTypeOfMaterial (changes typeOfMaterial as a string)
 changeMenuLength (changes length of menuLength as an integer)
-changeMenuWidth (changes length of menuLength as an integer)
-changeNumberOfFoodOptions (changes food options on numberOfFoodOptions as an integer)
+changeMenuWidth (changes width of menuLength as an integer)
 chiefsSpecialsAdded (changes chiefsSpecialsAdded to true )
