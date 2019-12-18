@@ -1,0 +1,48 @@
+Becoming a Turing student
+
+1 Go to Try Coding Session
+  1.1 Sign up for Try Coding Session
+  1.2 Attend session
+    1.2.1 Bring laptop
+    1.2.2 Bring notebook
+    1.2.3 Learn a how to make a ghost with code
+2 Sign up for Turing
+  2.2 Go to website turing.oi
+  2.3 Make an account
+    2.3.1 Input your information
+3 Take LSAT Test
+  3.1 Practice LSAT examples
+  3.2 Take LSAT tests
+4 Interview
+  4.1 Interview in person
+    4.1.1 Greet Interviewer
+    4.1.2 Take another LSAT Test
+    4.1.3 Recieve more information about Turing
+    4.1.4 Take a Tour
+        4.1.4.1 View classroom of each Mod
+        4.1.4.2 Greet staff
+5 Loan Process
+ 5.1 Meeting with Darren
+ 5.2 Learn what loan options best fit your
+ 5.3 Apply for loan
+6 Start Mod 0
+  6.1 Attend Session
+    6.1.1 Greet teachers and students
+    6.1.2 Learn google search
+    6.1.3 Learn Classes
+  6.2 Attend Session 2
+    6.2.1 Learn Classes and Attributes
+    6.2.2 Learn file and directories via terminal
+  6.3 Attend Session 3
+    6.3.1 Learn Methods
+    6.3.2 Learn Github flow
+    6.3.3 Learn Github commands
+  6.4 Attend Session 4
+    6.4.1 Learn top down design
+    6.4.2 OOP
+  6.5 Attend Session 5
+   6.5.1 Practice Assessment of everything learned in class
+   6.5.2 Take Mod 0 assessment test
+  6.6 Attend Session 6
+    6.6.1 Learn about life at Turing
+7 Begin School
