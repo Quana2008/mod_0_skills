@@ -1,0 +1,14 @@
+Class: Drinking Cups
+
+Attributes:
+cupColor(string)
+typeOfMaterial (string)
+numberOfTablePlacements (integer)
+alcoholicDrink (boolean)
+
+
+Method:
+changeColor (changes the color of cupColor attributes)
+changeTypeOfMaterial (changes typeOfMaterial as a string)
+changenumberOfTablePlacements  (changes numberOfTablePlacements on table as an integer)
+alcoholicDrink (changes alcoholicDrink to false )
