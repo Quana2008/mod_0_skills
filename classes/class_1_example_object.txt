@@ -1,0 +1,16 @@
+Object: plasticMenu
+
+color: 'white'
+typeOfMaterial: 'plastic'
+menuLengthInches: 10
+menuWidthInches: 6
+chiefsSpecialsAdded: false
+
+
+
+
+changeColor: ('black')
+changeTypeOfMaterial
+changeMenuLength: '13'
+changeMenuWidth: '9'
+chiefsSpecialsAdded true
