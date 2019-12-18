@@ -1,0 +1,12 @@
+Object: glassDrinkingCup
+
+cupColor:'white'
+typeOfMaterial: 'paper'
+numberOfTablePlacements: 2
+alcoholicDrink: false
+
+
+changeColor: 'clear'
+changeTypeOfMaterial: 'glass'
+changenumberOfTablePlacements: '4'
+alcoholicDrink: true
